@@ -1,0 +1,29 @@
+//................
+
+		
+		
+		
+		
+		
+		/*int found=0;
+		int fndidx=-1;
+		
+		for( int i=0;i<3;i++)
+		{
+			
+			if(name==name_user[i])
+
+			{
+				//found=1;
+				//fndidx=i;
+				System.out.println("Phone user: "+ phone_user[i]);
+			}
+		
+		else
+		{
+			System.out.println("Not found");
+		}
+	}*/
+
+}
+}
